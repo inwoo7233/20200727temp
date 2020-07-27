@@ -1,0 +1,18 @@
+  
+.container {
+    width: 900px;
+    height: 300px;
+    border: 3px solid lightcoral;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.items {
+    width: 220px;
+    height: 220px;
+    background-color: lightcoral;
+    border-radius: 5px;
+}
